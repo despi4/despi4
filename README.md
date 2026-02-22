@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![ascii](https://github.com/user-attachments/assets/d8ef77ae-e512-46ab-9e96-f06548e29003)
+![space](https://github.com/user-attachments/assets/2e14a94d-5d5b-4212-9685-0bd156b1349c)
+
 
 Hello, I’m Almadi
 
