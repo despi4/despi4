@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ0bXAzcnExYzJyOXFxZmtkajk0MHVqYnoxN3ZnM2hiYnQwcWZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif
+
+Hello, I’m Almadi
+
 <!--
 **despi4/despi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
