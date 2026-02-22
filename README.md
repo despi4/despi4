@@ -1,21 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJp.../giphy.gif" width="400">
+</p>
 
-![space](https://github.com/user-attachments/assets/2e14a94d-5d5b-4212-9685-0bd156b1349c)
+# Hi, I'm Almadi
 
-
-Hello, I’m Almadi
-
-<!--
-**despi4/despi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Web Developer building projects with **Golang**, **Gin**, and **PostgreSQL**. I have hands-on experience with **Docker**, **Docker Compose**, and frontend basics like **HTML/CSS/JS**. I am a lifelong learner, always excited to explore new technologies and take on fresh challenges in the tech world.
