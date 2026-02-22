@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7fa7db44-70e0-4094-88ba-45799e9af906" width="800">
+  <img src="https://github.com/user-attachments/assets/adbb02a6-b59e-4bdf-8652-8770fdd35123" width="400">
 </p>
 
 # Hi, I'm Almadi
@@ -11,8 +11,3 @@ I am a Web Developer building projects with **Golang**, **Gin**, **Python** and 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/almazeck) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlmadiMadiuly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johapo62@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=despi4&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=despi4&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=despi4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
