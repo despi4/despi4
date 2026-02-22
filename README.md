@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![space gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZ0bXAzcnExYzJyOXFxZmtkajk0MHVqYnoxN3ZnM2hiYnQwcWZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif)
+![space](https://github.com/user-attachments/assets/962c68f0-8a5d-45fe-8407-50c26d3872d2)
 
 Hello, I’m Almadi
 
