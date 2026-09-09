@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/17aaa865-58f8-4fc1-9fa6-1850a872e296">
-</p>
-
 # Hi, I'm Almadi
 
 I am a Software Engineer building projects with **Golang**, **Gin**, **Python** and **PostgreSQL**. I have hands-on experience with **Docker**, and frontend basics like **HTML/CSS/JS**. I am a lifelong learner, always excited to explore new technologies and take on fresh challenges in the tech world.
