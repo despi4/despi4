@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="113" height="148" alt="image" src="https://github.com/user-attachments/assets/b202843a-57c7-427e-9876-890935592343" />
+  <img width="498" height="281" alt="e4c35f7646d0d7336a3e4cb50edf5c5c" src="https://github.com/user-attachments/assets/3a8ddf03-3b32-469a-b333-adc7a5fa3826" />
 </p>
 
 <h1 align="center">Hi, I'm Almadi</h1>
