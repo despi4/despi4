@@ -1,3 +1,5 @@
+<img width="1279" height="992" alt="hole" src="https://github.com/user-attachments/assets/64da8732-82ce-4941-93ac-bb23a8fc0f52" />![Uploading hole.webp…](hole)
+
 <h1 align="center">Hi, I'm Almadi</h1>
 
 I am a Software Engineer building projects with **Golang**, **Gin**, **Python** and **PostgreSQL**. I have hands-on experience with **Docker**, and frontend basics like **HTML/CSS/JS**. I am a lifelong learner, always excited to explore new technologies and take on fresh challenges in the tech world.
