@@ -1,4 +1,4 @@
-<img width="1279" height="992" alt="hole" src="https://github.com/user-attachments/assets/64da8732-82ce-4941-93ac-bb23a8fc0f52" />![Uploading hole.webp…](hole)
+<img width="400" height="100" alt="hole" src="https://github.com/user-attachments/assets/64da8732-82ce-4941-93ac-bb23a8fc0f52" />![](hole)
 
 <h1 align="center">Hi, I'm Almadi</h1>
 
