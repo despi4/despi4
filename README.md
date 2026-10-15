@@ -1,5 +1,5 @@
 <p align="center">
-  https://github.com/user-attachments/assets/96b33c5c-4931-44ae-abe2-bba12bb94895
+  <img width="113" height="148" alt="image" src="https://github.com/user-attachments/assets/b202843a-57c7-427e-9876-890935592343" />
 </p>
 
 <h1 align="center">Hi, I'm Almadi</h1>
