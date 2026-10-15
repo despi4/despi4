@@ -1,4 +1,4 @@
-<img width="700" height="500" align="center" alt="hole" src="https://github.com/user-attachments/assets/64da8732-82ce-4941-93ac-bb23a8fc0f52" />![](hole)
+<img width="1000" height="300" alt="hole" src="https://github.com/user-attachments/assets/64da8732-82ce-4941-93ac-bb23a8fc0f52" />![](hole)
 
 <h1 align="center">Hi, I'm Almadi</h1>
 
